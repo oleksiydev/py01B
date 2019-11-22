@@ -1,3 +1,3 @@
 # my first program
 
-print ('hello world')
+print ('Hello World!')
